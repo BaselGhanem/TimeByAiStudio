@@ -1,0 +1,5 @@
+{
+  "name": "Time Brain V5",
+  "description": "A behavioral intelligence system that converts daily actions into executive-level decision support using local-first storage and Gemini AI analysis.",
+  "requestFramePermissions": []
+}
